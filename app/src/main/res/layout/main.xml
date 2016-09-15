@@ -4,6 +4,5 @@
     android:id="@+id/MainScreen"
     android:orientation="vertical"
 
-    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:
+    <ListLayout></ListLayout>
 </RelativeLayout>
