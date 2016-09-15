@@ -4,5 +4,18 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="+@id/Message1"
+        android:layout_height="fill_parent"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="left"
+        android:textAlignment="center">
+        <TextView style="@android:style/TextAppearance.DeviceDefault.Large"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello World"/>
+    </RelativeLayout>
+
 
 </LinearLayout>
