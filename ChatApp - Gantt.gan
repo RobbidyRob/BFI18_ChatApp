@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="ChatApp" company="BFI_18" webLink="http://" view-date="2016-08-22" view-index="0" gantt-divider-location="353" resource-divider-location="300" version="2.8.1" locale="de_DE">
+<?xml version="1.0" encoding="UTF-8"?><project name="ChatApp" company="BFI_18" webLink="http://" view-date="2016-08-22" view-index="0" gantt-divider-location="353" resource-divider-location="300" version="2.8.1" locale="de">
     <description><![CDATA[		]]></description>
     <view zooming-state="default:7" id="gantt-chart">
-        <field id="tpd3" name="Vorgang" width="195" order="0"/>
-        <field id="tpd4" name="Anfang" width="77" order="1"/>
-        <field id="tpd5" name="Ende" width="77" order="2"/>
+        <field id="tpd3" name="Vorgang" width="186" order="0"/>
+        <field id="tpd4" name="Anfang" width="74" order="1"/>
+        <field id="tpd5" name="Ende" width="74" order="2"/>
         <option id="taskLabelUp" value="name"/>
         <option id="taskLabelDown" value="taskDates"/>
         <option id="taskLabelLeft" value="length"/>
@@ -102,12 +102,12 @@
         </taskproperties>
         <task id="39" name="Projektfindung" color="#0099ff" meeting="false" start="2016-09-01" duration="2" complete="0" expand="true"/>
         <task id="7" name="Projekt" meeting="false" start="2016-09-01" duration="16" complete="0" expand="true">
-            <task id="46" name="Ressourcenplanung" meeting="false" start="2016-09-01" duration="6" complete="0" expand="false">
+            <task id="46" name="Ressourcenplanung" meeting="false" start="2016-09-01" duration="6" complete="0" expand="true">
                 <task id="47" name="Welche Materialien, Lernhilfen und Werkzeuge werden benötigt" color="#ffcc00" meeting="false" start="2016-09-15" duration="4" complete="0" expand="true"/>
                 <task id="41" name="Flowchart, Genaue Planung und Aufgabenteilung" color="#00ff00" meeting="false" start="2016-09-08" duration="3" complete="0" expand="true"/>
                 <task id="40" name="Grobe Planung" color="#00ff00" meeting="false" start="2016-09-01" duration="2" complete="0" expand="true"/>
             </task>
-            <task id="65" name="Arbeitsfortschritte" meeting="false" start="2016-09-22" duration="13" complete="0" expand="false">
+            <task id="65" name="Arbeitsfortschritte" meeting="false" start="2016-09-22" duration="13" complete="0" expand="true">
                 <task id="73" name="Zusammenführen der Features" color="#0099ff" meeting="false" start="2016-12-01" duration="2" complete="0" expand="true"/>
                 <task id="95" name="Debugging" color="#00ff00" meeting="false" start="2016-12-08" duration="2" complete="0" expand="true"/>
                 <task id="69" name="Grafisches Layout / &quot;MockUp&quot;" color="#ffcc00" meeting="false" start="2016-10-13" duration="6" complete="0" expand="true">
@@ -123,7 +123,7 @@
                 <task id="67" name="Lernen der notwendigen Programmiersprache" color="#ffcc00" meeting="false" start="2016-09-29" duration="7" complete="0" expand="true"/>
                 <task id="90" name="QR-Code Scanner?" color="#ff0000" meeting="false" start="2016-11-10" duration="6" complete="0" expand="true"/>
             </task>
-            <task id="38" name="Dokumentation" meeting="false" start="2016-09-08" duration="15" complete="0" expand="false">
+            <task id="38" name="Dokumentation" meeting="false" start="2016-09-08" duration="15" complete="0" expand="true">
                 <task id="48" name="Tagesprotokolle" color="#00ff00" meeting="false" start="2016-09-08" duration="4" complete="0" expand="true">
                     <depend id="126" type="2" difference="0" hardness="Rubber"/>
                 </task>
